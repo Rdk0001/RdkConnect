@@ -1,0 +1,46 @@
+
+.container {
+    background-color: blue;
+   height: 20%;
+    font-size: 10px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 30px;
+    margin: 450px;
+    border-radius: 120px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+    
+}
+
+.a{
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+
+.connect {
+    background-color: #4CAF50;
+    border: none;
+
+    color: white;
+    padding: 16px 40px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 12px;
+    box-shadow: 0 9px #008cff;
+}
+
+.btn:hover {opacity: 1}
+
+/* Path: index.html */
+
